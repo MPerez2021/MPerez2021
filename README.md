@@ -2,7 +2,7 @@
 <h3 align="center">Sofware developer with frontend and backend skills</h3>
 
 <h3 align="left">About me</h3>
-👨‍💻 Learn more about me and see all my projects at [https://mateodev.netlify.app/](https://mateodev.netlify.app/)
+👨‍💻 Learn more about me and see all my projects at https://mateodev.netlify.app/
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
