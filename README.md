@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mateo Pérez</h1>
-<h3 align="center">Sofware developer with frontend and backend skills</h3>
-
+![Header](https://user-images.githubusercontent.com/60261662/218352547-5077bd65-24d1-489b-bd4f-660a63b75e9e.png)
 <h3 align="left">About me</h3>
 👨‍💻 Learn more about me and see all my projects at https://mateodev.netlify.app/
 
