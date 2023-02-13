@@ -1,7 +1,20 @@
+
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/60261662/218352547-5077bd65-24d1-489b-bd4f-660a63b75e9e.png" alt="profile header"/>
 <p/>
-
+<p> 
+<p align="center"> 
+  <a href="https://www.youtube.com/channel/UCkKrfOutHxTx_9gkdP9_f4A">
+  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/mateoperezdev">
+  <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white"/>
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
 <h3 align="left">¿Quieres saber más de mí?</h3>
   <p>Conoceme como profesional y mira todos mis proyectos aquí: https://mateodev.netlify.app/</p>
 <h3 align="left">Contactáme</h3>
