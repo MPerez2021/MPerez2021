@@ -1,13 +1,26 @@
-![Header](https://user-images.githubusercontent.com/60261662/218352547-5077bd65-24d1-489b-bd4f-660a63b75e9e.png)
-<h3 align="left">About me</h3>
-👨‍💻 Learn more about me and see all my projects at https://mateodev.netlify.app/
-
-<h3 align="left">Connect with me</h3>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/60261662/218352547-5077bd65-24d1-489b-bd4f-660a63b75e9e.png" alt="profile header"/>
+<p/>
+<h3 align="left">¿Quieres saber más de mí?</h3>
+  <p>Conoceme como profesional y mira todos mis proyectos aquí: https://mateodev.netlify.app/</p>
+<h3 align="left">Contactáme</h3>
+<p>Si tienes algo en mente no dudes en contactarme a través de estos medios:</p>
 <p align="left">
-<a href="https://linkedin.com/in/mateoperezdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mateoperezdev" height="30" width="40" /></a>
+  <ul>
+    <li>
+      Linkedin: <a href="https://linkedin.com/in/mateoperezdev" target="blank">
+          <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"                  alt="mateoperezdev" height="20" width="20" />
+          </a>
+    </li>
+    <li>
+        E-mail: <a href="mailTo: mdev.programmer@gmail.com" target="_blank" rel="noreferrer"> 
+        mdev.programmer@gmail.com
+      </a> 
+    </li>
+  </ul>
 </p>
 
-<h3 align="left">Languages and Tools</h3>
+<h3 align="left">Conocimientos</h3>
 <p align="left"> 
   <a href="https://angular.io" target="_blank" rel="noreferrer"> 
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
@@ -44,5 +57,5 @@
   </a> 
 </p>
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mperez2021&show_icons=true&locale=en&layout=compact" alt="mperez2021" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mperez2021&show_icons=true&locale=es&theme=dark" alt="mperez2021" />
 </p>
